@@ -1,4 +1,4 @@
-# MERN E-COMMERCE TUTORIAL
+# MERN E-COMMERCE WEBSITE
 
 Hi! My name is **Gaurav Soni**, I have created this MERN Stack E-Commerce Web App.
 
